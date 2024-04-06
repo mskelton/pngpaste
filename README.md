@@ -8,7 +8,7 @@ You can install pngpaste by running the install script which will download
 the [latest release](https://github.com/mskelton/pngpaste/releases/latest).
 
 ```bash
-curl -LSfs https://mskelton.dev/pngpaste/install | sh
+curl -LSfs https://go.mskelton.dev/pngpaste/install | sh
 ```
 
 Or you can build from source.
